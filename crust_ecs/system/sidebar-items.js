@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["command","query","resources","schedule","zip"],"struct":["FunctionSystem"],"trait":["IntoSystem","System","SystemParam","SystemParamFunction"]};

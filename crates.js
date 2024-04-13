@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["anymap","crust_ecs","crust_macro","downcast","hashbrown","indexmap","priority_queue","proc_macro2","quote","syn","unicode_ident"];
